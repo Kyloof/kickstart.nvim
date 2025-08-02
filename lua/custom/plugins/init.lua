@@ -1,5 +1,11 @@
--- You can add your own plugins here or in other files in this directory!
---  I promise not to create any merge conflicts in this directory :)
---
--- See the kickstart.nvim README for more information
-return {}
+return {
+  require 'custom.plugins.telescope',
+  require 'custom.plugins.tokyonight',
+  require 'custom.plugins.todo_comments',
+  require 'custom.plugins.tree_sitter',
+  require 'custom.plugins.mini',
+  require 'custom.plugins.guess_indent',
+  require 'custom.plugins.lazydev',
+  require 'custom.plugins.whichkey',
+  require 'custom.plugins.transparent_nvim'
+}

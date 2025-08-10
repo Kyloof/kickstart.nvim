@@ -16,9 +16,8 @@ local rtp = vim.opt.rtp
 rtp:prepend(lazypath)
 
 require('lazy').setup({
-  require 'custom.plugins.init',
-  require 'custom.lsp.init',
-  require 'kickstart.plugins.init',
+  require 'kyloof.plugins.init',
+  require 'kyloof.lsp.init'
 }, {
   ui = {
     -- If you are using a Nerd Font: set icons to an empty table which will use the

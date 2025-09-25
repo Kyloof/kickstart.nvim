@@ -1,5 +1,5 @@
 -- NOTE:
--- [[  Setting options  ]]
+-- Setting options
 -- See `:help vim.o`
 -- For more options, you can see `:help option-list`
 

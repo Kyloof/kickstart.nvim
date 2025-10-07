@@ -1,7 +1,7 @@
-require 'core.globals'
-require 'core.options'
-require 'core.keymaps'
-require 'core.autocommands'
-require 'core.lazy'
+require 'kyloof.core.globals'
+require 'kyloof.core.options'
+require 'kyloof.core.keymaps'
+require 'kyloof.core.autocommands'
+require 'kyloof.core.lazy'
 
 vim.opt.conceallevel = 1

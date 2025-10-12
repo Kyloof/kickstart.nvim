@@ -27,6 +27,10 @@ return {
         path = '~/Notes/personal',
       },
       {
+        name = 'studies',
+        path = '~/Notes/studies',
+      },
+      {
         name = 'programming',
         path = '~/Notes/programming',
       },

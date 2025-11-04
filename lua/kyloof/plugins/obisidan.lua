@@ -34,6 +34,10 @@ return {
         name = 'programming',
         path = '~/Notes/programming',
       },
+      {
+        name = 'studies',
+        path = '~/Notes/studies',
+      },
     },
     ui = {
       enable = false,

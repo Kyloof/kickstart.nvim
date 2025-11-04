@@ -17,5 +17,4 @@ return {
   require 'kyloof.plugins.guess_indent',
   require 'kyloof.plugins.indent_line',
   require 'kyloof.plugins.neo-tree',
-  require 'kyloof.plugins.surround',
 }
